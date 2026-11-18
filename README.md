@@ -1,49 +1,165 @@
+<div align="center">
+
 # Muhammet Emre Akyüz
 
 **Software Engineer · ES Company Studio**
 
-I design and build software across web, mobile, desktop, games, and connected devices. My work spans product design, frontend and backend development, APIs, databases, integrations, automation, and the testing needed to ship and maintain a product.
+*Designing and shipping end-to-end software across Windows desktop internals, full-stack web & e-commerce, mobile apps, AI automation, 3D games, and embedded devices.*
 
-[Get in touch](mailto:escompanystudio@gmail.com) · Türkiye
+[![Email](https://img.shields.io/badge/Contact-escompanystudio%40gmail.com-0A84FF?style=flat-square&logo=gmail&logoColor=white)](mailto:escompanystudio@gmail.com)
+[![Location](https://img.shields.io/badge/Based_in-T%C3%BCrkiye-161B22?style=flat-square)](https://github.com/escompanystudio-base)
+[![Flagship](https://img.shields.io/badge/Flagship-DinamikAda-10B981?style=flat-square&logo=windows11&logoColor=white)](https://github.com/escompanystudio-base/DinamikAda)
+[![Web Demo](https://img.shields.io/badge/Live_Demo-Ala%C5%9Fehir_Organik-F59E0B?style=flat-square&logo=vercel&logoColor=white)](https://escompanystudio-base.github.io/alasehir-organik-demo/)
 
-## What I work on
+</div>
 
-- **Web apps and e-commerce** · Storefronts, admin dashboards, APIs, databases, and payment and shipping integrations. TypeScript, Next.js, PHP, and PostgreSQL.
-- **Desktop and mobile** · Native Windows utilities, system integrations, and cross-platform app interfaces. C#, .NET, WPF, Win32, and Flutter.
-- **AI and automation** · AI integrations, developer tools, Python and PowerShell automation, and reporting workflows.
-- **Game development** · Gameplay prototyping, 3D environments, and audio integration with Godot and Blender.
-- **Embedded software and devices** · Firmware, kiosk software, and peripheral integration for readers and thermal printers.
-- **Testing and delivery** · Automated tests, live smoke checks, security reviews, deployment, and troubleshooting.
+---
 
-## Selected projects
+## What I Build
 
-### [DinamikAda](https://github.com/escompanystudio-base/DinamikAda)
+I work across the complete product lifecycle — from architecture, UI/UX, backend APIs, and low-level OS hooks to hardware peripherals, automated verification, and production rollout.
 
-A Windows 11 desktop island and Explorer taskbar theme with media controls, per-app audio, and usage tracking for multiple AI accounts. The island, dock, system tray and Start menu change color with the album artwork.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Desktop &amp; Windows Internals</b><br/>
+      <sub>Native Windows utilities, shell enhancements, Win32 P/Invoke hosts, C++ hooks, and smooth hardware-accelerated interfaces using <code>C#</code>, <code>.NET</code>, <code>WPF</code>, <code>Win32</code>, and <code>C++</code>.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Web Platforms &amp; E-Commerce</b><br/>
+      <sub>High-conversion storefronts, admin dashboards, REST/RPC backends, databases, and payment/shipping workflows built with <code>TypeScript</code>, <code>Next.js</code>, <code>PHP</code>, and <code>PostgreSQL</code>.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>AI Tooling &amp; Automation</b><br/>
+      <sub>Multi-provider AI quota telemetry, OAuth/API integrations, developer productivity utilities, and pipeline automation using <code>Python</code>, <code>PowerShell</code>, and <code>.NET</code>.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Cross-Platform Mobile</b><br/>
+      <sub>Responsive iOS &amp; Android experiences, native platform bridges, and state-driven consumer interfaces engineered in <code>Flutter</code> &amp; <code>Dart</code>.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Game Development &amp; 3D</b><br/>
+      <sub>Gameplay mechanics, interactive 3D scenes, shaders, UI systems, and spatial audio workflows with <code>Godot</code> and <code>Blender</code>.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Embedded Hardware, QA &amp; Delivery</b><br/>
+      <sub>Firmware &amp; kiosk software, smart readers and thermal printer integrations, paired with automated test suites, smoke harnesses, and security audits.</sub>
+    </td>
+  </tr>
+</table>
 
-[See it in motion](https://github.com/escompanystudio-base/DinamikAda#dock-and-tray-motion) · [Türkçe kurulum ve kullanım](https://github.com/escompanystudio-base/DinamikAda/blob/main/docs/kullanim.md)
+---
 
-[![DinamikAda’s Explorer app dock and system tray in their default appearance](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-taskbar.png)](https://github.com/escompanystudio-base/DinamikAda)
+## Featured Work
 
-![Album colors changing across the DinamikAda island, Explorer dock and system tray](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/music-colors.gif)
+### [DinamikAda](https://github.com/escompanystudio-base/DinamikAda) — Windows 11 Dynamic Island, Native `explorer.exe` Dock & AI Quota HUD
+
+A hardware-aligned Windows 11 desktop companion written in **C# / .NET / WPF / Win32** with native **C++ Windhawk hooks** (`explorer.exe` & `StartMenuExperienceHost`). Releases the bottom screen work area, renders a 7-tab command notch, tracks multi-account **ChatGPT / Antigravity / Claude / Gemini / Cursor** quotas, and breathes album-art colors across every shell surface.
+
+[Repository](https://github.com/escompanystudio-base/DinamikAda) · [Türkçe Kullanım Kılavuzu](https://github.com/escompanystudio-base/DinamikAda/blob/main/docs/kullanim.md)
+
+<div align="center">
+  <a href="https://github.com/escompanystudio-base/DinamikAda">
+    <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/dinamikada-overview.png" alt="DinamikAda unified desktop overview" width="100%"/>
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/upper-island-motion.gif" alt="Upper Island 7-tab command deck and Command Palette" width="100%"/>
+      <br/>
+      <sub><b>Upper Dynamic Notch</b> — Morphs across Now, Audio, Control, Shelf/QR, System, AI Quota &amp; Command Palette (<a href="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/upper-island-motion.gif">GIF</a>)</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/ai-quota-showcase.gif" alt="AI Quota multi-provider tracking" width="100%"/>
+      <br/>
+      <sub><b>Multi-Account AI Quota</b> — ChatGPT 5h + Weekly, Antigravity 3-pool OAuth, Claude &amp; Account Editor (<a href="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/ai-quota-showcase.gif">GIF</a>)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-dock-full-cycle.gif" alt="Native explorer.exe floating dock reveal and wave hover" width="100%"/>
+      <br/>
+      <sub><b>Native <code>explorer.exe</code> Dock</b> — Zero-reserve bottom reveal, wave hover lift &amp; auto-conceal (<a href="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-dock-full-cycle.gif">GIF</a>)</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/music-colors.gif" alt="Synchronized album-art colors across Top Island, Explorer Dock, and System Tray" width="100%"/>
+      <br/>
+      <sub><b>Synchronized Album Colors</b> — Live track palette across Top Island, Explorer Dock &amp; Tray (<a href="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/music-colors.gif">GIF</a>)</sub>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary>More DinamikAda animations</summary>
+<summary><b>More DinamikAda Animations: Explorer Tray, Start Menu Sync &amp; Standalone Launchpad</b></summary>
 
-**Explorer dock reveal and icon hover**
+<br/>
 
-![The Explorer dock opens, icons lift across the row, and the dock hides](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-dock-full-cycle.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-taskbar.png" alt="Native explorer.exe floating taskbar and tray" width="100%"/>
+  <br/>
+  <sub>Clean split-island <code>explorer.exe</code> taskbar with centered App Dock &amp; collapsible right System Tray</sub>
+</div>
 
-**System tray collapse and expand**
+<br/>
 
-![The system tray folds into its corner button](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-tray.gif)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-tray.gif" alt="Collapsible Explorer system tray chevron" width="100%"/>
+      <br/>
+      <sub><b>Collapsible Tray</b> — Toggle extra tray glyphs (<a href="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-tray.gif">GIF</a>)</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/music-start-menu.gif" alt="Windows 11 Start Menu synced album colors" width="100%"/>
+      <br/>
+      <sub><b>Start Menu Sync</b> — <code>StartMenuExperienceHost</code> glass (<a href="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/music-start-menu.gif">GIF</a>)</sub>
+    </td>
+  </tr>
+</table>
 
-**Album colors in the Windows Start menu**
-
-![The Windows Start menu transitions between album palettes](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/music-start-menu.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/standalone-dock-launchpad.gif" alt="Standalone Bottom Dock, Start Launchpad, Calendar, Background Tray, and Settings" width="700"/>
+  <br/>
+  <sub><b>Standalone Dock &amp; Launchpad</b> — Custom dock, Start popup, Calendar, Background Tray &amp; Settings (<a href="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/standalone-dock-launchpad.gif">GIF</a>)</sub>
+</div>
 
 </details>
 
-### [Alaşehir Organik](https://github.com/escompanystudio-base/alasehir-organik-demo)
+---
 
-A Turkish storefront design demo with product discovery, campaign pages, a cart and an account experience. [Open the demo](https://escompanystudio-base.github.io/alasehir-organik-demo/)
+### [Alaşehir Organik](https://github.com/escompanystudio-base/alasehir-organik-demo) — E-Commerce Storefront & Shopping Flow
+
+Full-featured Turkish organic store design & interactive commerce prototype featuring product discovery, campaign showcases, dynamic shopping cart, and customer account workflows.
+
+- **Repository:** [escompanystudio-base/alasehir-organik-demo](https://github.com/escompanystudio-base/alasehir-organik-demo)
+- **Live Demo:** [escompanystudio-base.github.io/alasehir-organik-demo](https://escompanystudio-base.github.io/alasehir-organik-demo/)
+
+---
+
+## Core Tech Stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+</div>
