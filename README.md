@@ -1,82 +1,46 @@
-<div align="center">
-  <a href="https://github.com/escompanystudio-base/DinamikAda">
-    <img src="assets/hero-banner.svg" alt="Muhammet Emre Akyüz — Software & Systems Engineer" width="100%" />
-  </a>
-</div>
+# Muhammet Emre Akyüz
 
-<p align="center">
-  <a href="https://github.com/escompanystudio-base/DinamikAda">
-    <img src="https://img.shields.io/github/last-commit/escompanystudio-base/DinamikAda?style=flat-square&color=58A6FF&labelColor=0D1117&label=Latest%20Push" alt="Latest Push" />
-  </a>
-  <a href="https://github.com/escompanystudio-base/DinamikAda">
-    <img src="https://img.shields.io/github/repo-size/escompanystudio-base/DinamikAda?style=flat-square&color=A855F7&labelColor=0D1117&label=DinamikAda%20Size" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/escompanystudio-base/DinamikAda/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/escompanystudio-base/DinamikAda?style=flat-square&color=30D158&labelColor=0D1117&label=License" alt="License" />
-  </a>
-  <a href="mailto:escompanystudio@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-escompanystudio%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-</p>
+**Software Engineer · ES Company Studio**
 
-<br />
+I build Windows desktop tools and web products. My desktop work uses C#, .NET and native Windows APIs for media, system controls and small interfaces that stay out of the way.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/card-focus.svg" alt="Core Engineering Focus" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/card-metrics.svg" alt="Verified Telemetry — DinamikAda" width="100%" />
-    </td>
-  </tr>
-</table>
+[Get in touch](mailto:escompanystudio@gmail.com) · Türkiye
 
-## Featured Engineering · [DinamikAda](https://github.com/escompanystudio-base/DinamikAda)
+## Selected projects
 
-**Windows 11 Dynamic Island Control Deck** engineered from scratch with **C# 12**, **.NET 8**, **WPF**, and direct **Win32 / COM / WinRT** interop — built with zero Electron or WebView2 overhead.
+### [DinamikAda](https://github.com/escompanystudio-base/DinamikAda)
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <a href="https://github.com/escompanystudio-base/DinamikAda">
-        <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/now-feed.png" alt="DinamikAda Feed & Media Hub" width="100%" />
-      </a>
-    </td>
-    <td width="40%" valign="top">
-      <a href="https://github.com/escompanystudio-base/DinamikAda">
-        <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/compact-media.png" alt="DinamikAda Compact Notch" width="100%" />
-      </a>
-      <br /><br />
-      <ul>
-        <li><b>Audio &amp; Media:</b> GSMTC session switcher, dynamic album silk aura, WASAPI per-app mixer &amp; WAV voice notes.</li>
-        <li><b>Display &amp; Systems:</b> DDC/CI brightness + Night-Light-safe Win32 <code>WS_POPUP</code> dimmer, real PDH/DXGI GPU telemetry.</li>
-        <li><b>Productivity:</b> DPAPI clipboard vault, region screenshot + WinRT OCR, QR LAN file drops &amp; command palette.</li>
-      </ul>
-      <p><a href="https://github.com/escompanystudio-base/DinamikAda"><b>Explore DinamikAda Source →</b></a></p>
-    </td>
-  </tr>
-</table>
+A Windows 11 desktop island and Explorer taskbar theme with media controls, per-app audio, and usage tracking for multiple AI accounts. The island, dock, system tray and Start menu change color with the album artwork.
 
-## Engineering Principles
+[See it in motion](https://github.com/escompanystudio-base/DinamikAda#dock-and-tray-motion) · [Türkçe kurulum ve kullanım](https://github.com/escompanystudio-base/DinamikAda/blob/main/docs/kullanim.md)
 
-| Architecture | Performance | Verification |
-|---|---|---|
-| Clean modular boundaries separating Win32/COM interop from application logic. | Zero-allocation hot paths, GPU transform motion, and automatic idle render halting. | Automated xUnit suites, headless runtime smoke probes, and visual render audits. |
+[![DinamikAda’s Explorer app dock and system tray in their default appearance](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-taskbar.png)](https://github.com/escompanystudio-base/DinamikAda)
 
-## Core Stack
+![Album colors changing across the DinamikAda island, Explorer dock and system tray](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/music-colors.gif)
 
-<p>
-  <img src="https://img.shields.io/badge/C%23_12-0D1117?style=flat-square&logo=csharp&logoColor=A855F7" alt="C# 12" />
-  <img src="https://img.shields.io/badge/.NET_8-0D1117?style=flat-square&logo=dotnet&logoColor=58A6FF" alt=".NET 8" />
-  <img src="https://img.shields.io/badge/Win32_%2F_COM_%2F_WinRT-0D1117?style=flat-square&logo=windows&logoColor=38BDF8" alt="Win32 COM WinRT" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=F0F6FC" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=38BDF8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-</p>
+<details>
+<summary>More DinamikAda animations</summary>
 
-<p align="center">
-  <sub>Muhammet Emre Akyüz · <a href="mailto:escompanystudio@gmail.com">escompanystudio@gmail.com</a> · Türkiye</sub>
-</p>
+**Explorer dock reveal and icon hover**
+
+![The Explorer dock opens and the hovered app icon lifts](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-dock-motion.gif)
+
+**System tray collapse and expand**
+
+![The system tray folds into its corner button](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-tray.gif)
+
+**Album colors in the Windows Start menu**
+
+![The Windows Start menu transitions between album palettes](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/music-start-menu.gif)
+
+</details>
+
+### [Alaşehir Organik](https://github.com/escompanystudio-base/alasehir-organik-demo)
+
+A Turkish storefront design demo with product discovery, campaign pages, a cart and an account experience. [Open the demo](https://escompanystudio-base.github.io/alasehir-organik-demo/)
+
+## Engineering
+
+- **Windows desktop** · C#, .NET, WPF, Win32, COM and WinRT
+- **Web and app development** · TypeScript, Next.js, Python, Flutter and PostgreSQL
+- **Verification** · Unit tests, runtime smoke checks and live Windows checks for desktop interactions
