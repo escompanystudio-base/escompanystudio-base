@@ -98,7 +98,7 @@ A hardware-aligned Windows 11 desktop companion written in **C# / .NET / WPF / W
 </table>
 
 <details>
-<summary><b>More DinamikAda Animations: Explorer Tray, Start Menu Sync &amp; Standalone Launchpad</b></summary>
+<summary><b>More DinamikAda Animations: Explorer Tray &amp; Start Menu Sync</b></summary>
 
 <br/>
 
@@ -124,12 +124,6 @@ A hardware-aligned Windows 11 desktop companion written in **C# / .NET / WPF / W
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/standalone-dock-launchpad.gif" alt="Standalone Bottom Dock, Start Launchpad, Calendar, Background Tray, and Settings" width="700"/>
-  <br/>
-  <sub><b>Standalone Dock &amp; Launchpad</b> — Custom dock, Start popup, Calendar, Background Tray &amp; Settings (<a href="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/standalone-dock-launchpad.gif">GIF</a>)</sub>
-</div>
 
 </details>
 
