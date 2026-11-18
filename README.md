@@ -2,9 +2,18 @@
 
 **Software Engineer · ES Company Studio**
 
-I build Windows desktop tools and web products. My desktop work uses C#, .NET and native Windows APIs for media, system controls and small interfaces that stay out of the way.
+I design and build software across web, mobile, desktop, games, and connected devices. My work spans product design, frontend and backend development, APIs, databases, integrations, automation, and the testing needed to ship and maintain a product.
 
 [Get in touch](mailto:escompanystudio@gmail.com) · Türkiye
+
+## What I work on
+
+- **Web apps and e-commerce** · Storefronts, admin dashboards, APIs, databases, and payment and shipping integrations. TypeScript, Next.js, PHP, and PostgreSQL.
+- **Desktop and mobile** · Native Windows utilities, system integrations, and cross-platform app interfaces. C#, .NET, WPF, Win32, and Flutter.
+- **AI and automation** · AI integrations, developer tools, Python and PowerShell automation, and reporting workflows.
+- **Game development** · Gameplay prototyping, 3D environments, and audio integration with Godot and Blender.
+- **Embedded software and devices** · Firmware, kiosk software, and peripheral integration for readers and thermal printers.
+- **Testing and delivery** · Automated tests, live smoke checks, security reviews, deployment, and troubleshooting.
 
 ## Selected projects
 
@@ -38,9 +47,3 @@ A Windows 11 desktop island and Explorer taskbar theme with media controls, per-
 ### [Alaşehir Organik](https://github.com/escompanystudio-base/alasehir-organik-demo)
 
 A Turkish storefront design demo with product discovery, campaign pages, a cart and an account experience. [Open the demo](https://escompanystudio-base.github.io/alasehir-organik-demo/)
-
-## Engineering
-
-- **Windows desktop** · C#, .NET, WPF, Win32, COM and WinRT
-- **Web and app development** · TypeScript, Next.js, Python, Flutter and PostgreSQL
-- **Verification** · Unit tests, runtime smoke checks and live Windows checks for desktop interactions
