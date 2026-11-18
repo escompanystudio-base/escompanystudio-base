@@ -23,7 +23,7 @@ A Windows 11 desktop island and Explorer taskbar theme with media controls, per-
 
 **Explorer dock reveal and icon hover**
 
-![The Explorer dock opens and the hovered app icon lifts](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-dock-motion.gif)
+![The Explorer dock opens, icons lift across the row, and the dock hides](https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/explorer-dock-full-cycle.gif)
 
 **System tray collapse and expand**
 
