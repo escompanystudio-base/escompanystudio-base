@@ -21,7 +21,7 @@ Software engineer at **ES Company Studio**, based in Türkiye. I design and buil
   </tr>
   <tr>
     <td valign="top" width="30%"><b>Mobile apps</b></td>
-    <td valign="top">iOS and Android apps built with Flutter.</td>
+    <td valign="top">Android and iOS apps, from the first screens to the store listing. <a href="https://play.google.com/store/apps/details?id=com.escompanystudio.ciftcitakip">Çiftçi Takip</a> is live on Google Play.</td>
   </tr>
   <tr>
     <td valign="top" width="30%"><b>Desktop and custom software</b></td>
@@ -33,23 +33,63 @@ Software engineer at **ES Company Studio**, based in Türkiye. I design and buil
 
 ## Selected work
 
-### Gurme Alaşehirden
+### Çiftçi Takip, Android app
 
-<a href="https://escompanystudio-base.github.io/gurme-alasehirden-demo/"><img src="assets/gurme-alasehirden.jpg" alt="Gurme Alaşehirden online store on desktop and mobile" width="100%"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.escompanystudio.ciftcitakip"><img src="assets/ciftci-takip.jpg" alt="Çiftçi Takip app screens from Google Play" width="100%"/></a>
 
-Online store for a food producer from Alaşehir selling vine leaves, raisins, tomato paste and olives. It has a 24-product catalogue with search and category filters, product pages, an animated cart, a demo checkout with order tracking, customer accounts, favourites, full-screen search on mobile and a live-support chat demo. Plain HTML, CSS and JavaScript with no framework, hosted on GitHub Pages.
+Field app for agricultural teams, published on Google Play under ES Company Studio. Engineers and dealers log farm visits with GPS location, photos and notes, keep working where there is no signal and sync when they are back online. The app also keeps a farmer portfolio, shares tasks across the team and exports reports as PDF or CSV. I built the app and its product website.
 
-[Live demo](https://escompanystudio-base.github.io/gurme-alasehirden-demo/) · [Source](https://github.com/escompanystudio-base/gurme-alasehirden-demo)
+[Google Play](https://play.google.com/store/apps/details?id=com.escompanystudio.ciftcitakip) · [ciftcitakip.com](https://ciftcitakip.com)
 
-### Alaşehir Organik
+### Client websites
 
-<a href="https://escompanystudio-base.github.io/alasehir-organik-demo/"><img src="assets/alasehir-organik.jpg" alt="Alaşehir Organik storefront on desktop and mobile" width="100%"/></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://vitivera.com"><img src="assets/vitivera.jpg" alt="Vitivera online store on desktop and mobile" width="100%"/></a>
+      <br/><b><a href="https://vitivera.com">Vitivera</a></b>
+      <br/>Online store for a Manisa brand selling cold-pressed olive oil and brined vine leaves. Next.js, PayTR payments, language and currency switcher, order tracking and a recipe section.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://alasehirden.com"><img src="assets/alasehirden.jpg" alt="Alaşehir'den online store on desktop and mobile" width="100%"/></a>
+      <br/><b><a href="https://alasehirden.com">Alaşehir'den</a></b>
+      <br/>Store for regional products from Alaşehir: raisins, vine leaves, olive oil and grape molasses. Category filters, favourites, order tracking, live support and a choice of colour themes.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://icevera.com.tr"><img src="assets/icevera.jpg" alt="icevera online store on desktop and mobile" width="100%"/></a>
+      <br/><b><a href="https://icevera.com.tr">icevera</a></b>
+      <br/>Store for a freeze-dried fruit snack brand, built on the ikas platform, with campaign pages, wholesale and subscription sections and a bottom tab bar on phones.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://xn--anlurfaapart-34b45d.com/"><img src="assets/sanliurfa-apart.jpg" alt="Şanlıurfa Apart website on desktop and mobile" width="100%"/></a>
+      <br/><b><a href="https://xn--anlurfaapart-34b45d.com/">Şanlıurfa Apart</a></b>
+      <br/>Website for a 12-unit apart hotel in Şanlıurfa. Rooms, photo gallery, guest reviews, blog and map, with one-tap call and WhatsApp buttons for bookings.
+    </td>
+  </tr>
+</table>
 
-Storefront for an organic produce shop in Alaşehir, Manisa. Category menu, campaign slider, product cards and detail pages, cart and a customer account area. On phones the navigation moves to a bottom tab bar.
+### Demos and personal projects
 
-[Live demo](https://escompanystudio-base.github.io/alasehir-organik-demo/) · [Source](https://github.com/escompanystudio-base/alasehir-organik-demo)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://escompanystudio-base.github.io/gurme-alasehirden-demo/"><img src="assets/gurme-alasehirden.jpg" alt="Gurme Alaşehirden online store on desktop and mobile" width="100%"/></a>
+      <br/><b>Gurme Alaşehirden</b>
+      <br/>Store for a food producer from Alaşehir: 24-product catalogue, product pages, animated cart, demo checkout with order tracking, customer accounts, favourites and a live-support chat demo. Plain HTML, CSS and JavaScript.
+      <br/><a href="https://escompanystudio-base.github.io/gurme-alasehirden-demo/">Live demo</a> · <a href="https://github.com/escompanystudio-base/gurme-alasehirden-demo">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://escompanystudio-base.github.io/alasehir-organik-demo/"><img src="assets/alasehir-organik.jpg" alt="Alaşehir Organik storefront on desktop and mobile" width="100%"/></a>
+      <br/><b>Alaşehir Organik</b>
+      <br/>Storefront for an organic produce shop in Alaşehir, Manisa. Category menu, campaign slider, product pages, cart and a customer account area.
+      <br/><a href="https://escompanystudio-base.github.io/alasehir-organik-demo/">Live demo</a> · <a href="https://github.com/escompanystudio-base/alasehir-organik-demo">Source</a>
+    </td>
+  </tr>
+</table>
 
-### DinamikAda
+#### DinamikAda
 
 <a href="https://github.com/escompanystudio-base/DinamikAda"><img src="https://raw.githubusercontent.com/escompanystudio-base/DinamikAda/main/docs/screenshots/dinamikada-overview.png" alt="DinamikAda on the Windows 11 desktop" width="100%"/></a>
 
